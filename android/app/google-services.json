@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403019555868",
+    "project_id": "atelier4-a-aittaleb-iir5g6",
+    "storage_bucket": "atelier4-a-aittaleb-iir5g6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403019555868:android:3a283c27a9fcb6371e2bd9",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_a_aittaleb_iir5g6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GmHvFZaMAL80t24MDOCJOnSx1gmTEao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
