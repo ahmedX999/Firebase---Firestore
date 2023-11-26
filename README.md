@@ -49,40 +49,14 @@ This project showcases a simple mobile app built with Flutter, allowing users to
 
 - User authentication using Firebase Authentication.
 - Minimalistic login page design.
+- Product listing
+- Add new product
 
-## Getting Started
-
-### Prerequisites
-
-Before you start, make sure you have the following installed:
-
-- [Flutter](https://flutter.dev/docs/get-started/install)
-- [Firebase Project](https://console.firebase.google.com/)
-
-### Installation *************************************************************************************************************************************************************************************
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/flutter-firebase-login.git
-   cd flutter-firebase-login
-Install dependencies:
-    
-     ```bash
-    flutter pub get
+![image](https://github.com/ahmedX999/Firebase---Firestore/assets/104841511/13e4cd1a-7f92-4717-9088-af30a828132f)
+![image](https://github.com/ahmedX999/Firebase---Firestore/assets/104841511/e7f790f6-5f03-44ce-afa2-d87e033b2a0d)
+![image](https://github.com/ahmedX999/Firebase---Firestore/assets/104841511/c2c13927-2f1b-4a2c-8c71-2ae9a0c2c76b)
 
 
-### Firebase Configuration***********************************************************************************************************************************************************************
-To use Firebase Authentication in this project, you need to set up a Firebase project:
 
-Create a new Firebase project: Firebase Console.
-Enable Firebase Authentication in the Authentication section.
-Configure the sign-in methods (e.g., Email/Password).
-Obtain the Firebase configuration file (google-services.json for Android or GoogleService-Info.plist for iOS) and place it in the appropriate directory.
-###  Usage : *************************************************************************************************************************************************************************************
-To integrate the login page into your Flutter app, follow these steps:
 
-Copy the relevant code snippets from the lib directory.
-Adapt the code to fit your project structure.
-Customize the UI and functionality as needed.
 
